@@ -1,0 +1,5 @@
+Pcf	KEYWORD1
+init	KEYWORD2
+printVal	KEYWORD2
+printTxt	KEYWORD2
+clearLine	KEYWORD2
